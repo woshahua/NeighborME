@@ -17,6 +17,6 @@
 - React.js
 - SemanticUI
 - HTML/CSS
-### ブックエンド
+### バックエンド
 - Node.js
 - MongoDB
